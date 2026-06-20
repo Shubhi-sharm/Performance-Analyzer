@@ -1,0 +1,16 @@
+{
+  "domain": "HR",
+  "mode": "text",
+  "maxQuestions": 3,
+  "turns": [
+    {
+      "question": "Tell me about yourself.",
+      "answer": "I'm a final-year CS student focused on full-stack development."
+    },
+    {
+      "question": "Why do you want this role?",
+      "answer": "I want to work on impactful software and learn from experienced engineers."
+    }
+  ]
+}
+
